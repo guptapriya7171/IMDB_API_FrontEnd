@@ -12,3 +12,5 @@
 - Navigate through your favorite list.
 - Remove a poster from your favourite list.
 - Get a details of a show by double clicking on the poster.
+
+@YT :+1: This Project looks great
