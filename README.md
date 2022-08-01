@@ -1,2 +1,2 @@
 # OMDB_API_FrontEnd
-<span style="font-family: 'Lucida Console'; font-size: 20px;">foo</span>
+<span style="font-family: 'Times New Roman'; font-size: 50px;font-weight:bold;">foo</span>
