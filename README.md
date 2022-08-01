@@ -13,6 +13,8 @@
 - Remove a poster from your favourite list.
 - Get a details of a show by double clicking on the poster.
 
+URL OF AN API : https://www.omdbapi.com/
+
 ![Project Image](https://github.com/guptapriya7171/IMDB_API_FrontEnd/blob/main/Capture.PNG)
 
 
