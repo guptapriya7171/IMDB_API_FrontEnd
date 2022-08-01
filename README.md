@@ -15,6 +15,8 @@
 
 URL OF AN API : https://www.omdbapi.com/
 
+
+
 ![Project Image](https://github.com/guptapriya7171/IMDB_API_FrontEnd/blob/main/Capture.PNG)
 
 
